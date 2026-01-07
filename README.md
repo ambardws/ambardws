@@ -79,15 +79,6 @@ const ambar = {
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambardws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambardws&theme=tokyonight&hide_border=true)
-  
-  ![Trophy](https://github-profile-trophy.vercel.app/?username=ambardws&theme=tokyonight&no-frame=true&row=1&column=6)
-
-  # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ambardws&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=ambardws&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
