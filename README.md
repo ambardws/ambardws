@@ -78,17 +78,18 @@ const ambar = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambardws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&layout=compact&langs_count=8&theme=tokyonight"/>
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ambardws&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ambardws&theme=tokyonight&hide_border=true)
+  
+  ![Trophy](https://github-profile-trophy.vercel.app/?username=ambardws&theme=tokyonight&no-frame=true&row=1&column=6)
+  
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ambardws&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ambardws&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
+> **Note:** GitHub statistics might take a few moments to load. If they don't appear, try refreshing the page.
 
 ---
 
