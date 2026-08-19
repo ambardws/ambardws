@@ -78,16 +78,14 @@ const ambar = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=ambardws&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ambardws&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![](https://github-readme-stats.vercel.app/api?username=ambardws&theme=dark&hide_border=false&cache_seconds=1800)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ambardws&theme=dark)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ambardws&theme=dark&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ambardws&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-  
 </div>
 
 > **Note:** GitHub statistics might take a few moments to load. If they don't appear, try refreshing the page.
